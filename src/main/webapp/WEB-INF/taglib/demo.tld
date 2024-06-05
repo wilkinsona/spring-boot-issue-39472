@@ -5,7 +5,7 @@
 
    <tag>
       <name>Hello</name>
-      <tag-class>com.sun.demo.spring.cloud.gateway.demo.DemoTag</tag-class>
+      <tag-class>com.example.DemoTag</tag-class>
       <body-content>empty</body-content>
    </tag>
 </taglib>

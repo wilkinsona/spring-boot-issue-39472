@@ -1,4 +1,4 @@
-package com.sun.demo.spring.cloud.gateway.demo;
+package com.example;
 
 import java.io.IOException;
 
@@ -13,4 +13,5 @@ public class DemoTag extends SimpleTagSupport {
 		JspWriter out = getJspContext().getOut();
 		out.println("Hello Custom Tag!");
 	}
+
 }
